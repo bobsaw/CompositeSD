@@ -5,8 +5,8 @@ Calculate combined standard deviation from multiple group means and standard deb
 
 See:  http://www.burtonsys.com/climate/composite_standard_deviations.html
 Inputs are:  
-means: the vector of group means
-SDs: the vector of group standard deviations
+means: the vector of group means  
+SDs: the vector of group standard deviations  
 ncounts: a vector containing the number of samples in each group (can be 
-scalar if all groups have same number of samples)
+scalar if all groups have same number of samples)  
 Result is the overall standard deviation.
